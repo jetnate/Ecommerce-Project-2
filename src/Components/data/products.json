@@ -1,0 +1,99 @@
+[
+    {
+        "Title": "Kleco White T Shirt",
+        "Description":"Kleco t-shirt, white, soft, cotton, unisex!",
+        "Price":"Price:$30",
+        "image":"/images/kleco-white.jpg",
+        "price":"price0to50",
+        "type":"shirts"
+    },
+    {
+        "Title": "Kleco Grey Leggings",
+        "Description":"These leggings have a mesh panel design that not only looks great, but keeps you cool.",
+        "Price":"Price:$30",
+        "image":"/images/gray-leggings.jpeg",
+        "price":"price0to50",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Black T-Shirt",
+        "Description":"Kleco black t-shirt, soft, cotton, unisex",
+        "Price":"Price:$30",
+        "image":"/images/klelco-black.jpg",
+        "price":"price0to50",
+        "type":"shirts"
+    },
+    {
+        "Title": "Kleco Blue Hoodie",
+        "Description":"Blue Kleco in style for all seasons across the country. This premium hoodie is made of 100% polyester with a cozy cut to it that gives you that perfect fit.",
+        "Price":"Price:$65",
+        "image":"/images/blue-hoodie.jpg",
+        "price":"price50to100",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Crop Top",
+        "Description":"Dark Blue Active Crop Top Hoodie for women that like to be comfortable and active all together.",
+        "Price":"Price:$30",
+        "image":"/images/crop-top.jpg",
+        "price":"price0to50",
+        "type":"shirts"
+    },
+    {
+        "Title": "Kleco Bomber Jacket",
+        "Description":"Commando Green Bomber Jacket is here! Super stylish jacket with the right feel to it. Warm, fit, and cozy bomber jacket for the most fashionable people.",
+        "Price":"Price:$80",
+        "image":"/images/green-bomber-jacket.jpeg",
+        "price":"price50to100",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Green Beanie",
+        "Description":"DOUBLE PROTECTION: Being consisted of knitting yarn outside and wool inside, our beanie hat is going to protect your from the cold winter.",
+        "Price":"Price:$25",
+        "image":"/images/green-beanie.jpg",
+        "price":"price0to50",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Tie-Die Hoodie",
+        "Description":"The 60/40 cotton/poly blend makes this hoodie not only breathable, but flexible and durable, as well. With quality, comfort and style, this hoodie is a triple threat.",
+        "Price":"Price:$25",
+        "image":"/images/tie-die-hoodie.jpg",
+        "price":"price0to50",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Black Beanie",
+        "Description":"The hat with fashionable knitting pattern provide you both warm and trendy experience. One size (10 inches long and 9 inches wide) fit most.",
+        "Price":"Price:$45",
+        "image":"/images/black-beanie.jpg",
+        "price":"price0to50",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Grey Hoodie",
+        "Description":"Fashion-forward and classic comfort come together in this Contrast Hoodie by KLECO.",
+        "Price":"Price:$65",
+        "image":"/images/grey-hoodie.jpg",
+        "price":"price50to100",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Red Beanie",
+        "Description":"Ready for adventure, the Kleco Red Beanie is a lightweight knit-rib hat that fits into any season. Great for running, training, hiking and chilling.",
+        "Price":"Price:$25",
+        "image":"/images/red-beanie.jpg",
+        "price":"price0to50",
+        "type":"accessories"
+    },
+    {
+        "Title": "Kleco Black Hoodie",
+        "Description":"Black Kleco in style for all seasons across the country. This premium hoodie is made of 100% polyester with a cozy cut to it that gives you that perfect fit.",
+        "Price":"Price:$45",
+        "image":"/images/black-hoodie.jpg",
+        "price":"price0to50",
+        "type":"accessories"
+    }
+
+]
