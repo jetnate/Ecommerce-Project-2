@@ -1,7 +1,7 @@
 import React from 'react';
 import data from '../data/products.json';
 import ProductsBody from '../ProductsBody/ProductsBody'
-import '../../Components/data/data.css'
+
 
 class Filter extends React.Component {
         constructor(props){

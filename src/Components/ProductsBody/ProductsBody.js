@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../Components/data/data.css'
+
 
 const ProductsBody = ({item}) =>(
   <div>

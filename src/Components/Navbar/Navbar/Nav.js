@@ -1,5 +1,4 @@
 import React from 'react'
-import '/Users/nathanyordanostadesse/Desktop/ecommerceproject/src/Components/Navbar/Navbar/nav.css'
 
 
 class Nav extends React.Component {

@@ -3,6 +3,11 @@ import Filter from './Components/Filter/filter'
 import Nav from './Components/Navbar/Navbar/Nav'
 import Footer from './Components/Navbar/Footer/Footer'
 import './App.css'
+import './styles/data.css'
+import './styles/Footer.css'
+import './styles/nav.css'
+
+
 
 
 
