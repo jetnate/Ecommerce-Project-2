@@ -1,5 +1,5 @@
 import React from 'react'
-import '/Users/nathanyordanostadesse/Desktop/ecommerceproject/src/Components/Navbar/Footer/Footer.css'
+import '../Footer/footer.css'
 
 
 
